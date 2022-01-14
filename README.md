@@ -1,53 +1,65 @@
-# 👋 Hi there, I'm moontai0724.
+# 👋 Hi there, I'm 月太 げつたい MoonTai
+
 A passionate full-end developer from Taiwan.
 
-Currently working hard on web technologies, learning **[Nest.js](https://nestjs.com)**, **[Vue.js](https://vuejs.org)** and others.
+Currently working hard on learning web technologies!
 
 # Learning Skills
 
-## Front-end Skills
-- <img height="20px" alt="HTML5 Icon" src="https://simpleicons.org/icons/html5.svg"><img height="20px" alt="CSS3 Icon" src="https://simpleicons.org/icons/css3.svg"><img height="20px" alt="JavaScript Icon" src="https://simpleicons.org/icons/javascript.svg"> HTML, CSS and JavaScript, for sure.
-- <img height="20px" alt="Vue.js Icon" src="https://simpleicons.org/icons/vue-dot-js.svg"> Vue.js, for sure, too.
-- <img height="20px" alt="jQuery Icon" src="https://simpleicons.org/icons/jquery.svg"> jQuery, for most every front-end developer may used before.
-- <img height="20px" alt="Bootstrap Icon" src="https://simpleicons.org/icons/bootstrap.svg"> Bootstrap. I prefer [Semantic-UI](https://semantic-ui.com) more, but unfortunately, it's already stopped developing.
-- <img height="20px" alt="Google Analytics Icon" src="https://simpleicons.org/icons/googleanalytics.svg"> Google Analytics.
+## Web technologies
 
-## Back-end Skills
-- <img height="20px" alt="Node.js Icon" src="https://simpleicons.org/icons/node-dot-js.svg"> Node.js, for sure, I **love** JavaScript.
-- <img height="20px" alt="Node.js Icon" src="https://simpleicons.org/icons/nestjs.svg"> NestJS, learning hard..
-- <img height="20px" alt="OpenAPI Icon" src="https://simpleicons.org/icons/openapiinitiative.svg"> Build RESTful API with <img height="20px" alt="Swagger Icon" src="https://simpleicons.org/icons/swagger.svg"> Swagger.
-- <img height="20px" alt="Heroku Icon" src="https://simpleicons.org/icons/heroku.svg"> Heroku, a good free platform.
-- <img height="20px" alt="MySQL Icon" src="https://simpleicons.org/icons/mysql.svg"> MySQL, but come with phpmyadmin.
-- <img height="20px" alt="SQLite Icon" src="https://simpleicons.org/icons/sqlite.svg"> SQLite.
-- <img height="20px" alt="PHP Icon" src="https://simpleicons.org/icons/php.svg"> PHP, what I heard just only Laravel on PHP.
+I start develop web from [developing user-scripts](https://github.com/moontai0724?tab=repositories&q=user-script), then goes to both front and back end.
 
-## Server Management
-- <img height="20px" alt="VMWare Icon" src="https://simpleicons.org/icons/vmware.svg"> VMWare, and also local VMs.
-- <img height="20px" alt="Proxmox Icon" src="https://simpleicons.org/icons/proxmox.svg"> Proxmox, but just a little bit.
-- <img height="20px" alt="Google Cloud Icon" src="https://simpleicons.org/icons/googlecloud.svg"> Google Cloud, which is really really expensive on internet traffic.
-- <img height="20px" alt="Linode Icon" src="https://simpleicons.org/icons/linode.svg"> Linode, which is a good choice for cheap server.
-- <img height="20px" alt="OVH Icon" src="https://simpleicons.org/icons/ovh.svg"> OVH, cheap, cheap enough.
-- <img height="20px" alt="HAProxy Icon" src="https://i.imgur.com/cgJgjKy.png"> HAProxy, for reverse proxing Minecraft server.
-- <img height="20px" alt="Ubuntu Icon" src="https://simpleicons.org/icons/ubuntu.svg"> Ubuntu, and also shell-scripts.
-- <img height="20px" alt="Docker Icon" src="https://simpleicons.org/icons/docker.svg"> Docker, and also docker-compose.
-- <img height="20px" alt="Nginx Icon" src="https://simpleicons.org/icons/nginx.svg"> Nginx, like reverse-proxy, with DNS management: bind.
-- <img height="20px" alt="Let's Encrypt Icon" src="https://simpleicons.org/icons/letsencrypt.svg"> Let's Encrypt, but I use Cloudflare now.
-- <img height="20px" alt="Cloudflare Icon" src="https://simpleicons.org/icons/cloudflare.svg"> Cloudflare, which is really nice.
+JavaScript is my first place, I almost and I will still choose JavaScript as my program language when possible, I LOVE JavaScript.
+
+### Front end
+
+I use [jQuery](https://jquery.com/) before, but now, I have built [more than 6 projects](https://github.com/moontai0724?tab=repositories&q=vuejs) using [Vue.js](https://vuejs.org/), includes [Nuxt.js](https://nuxtjs.org/), [Vue CLI and direct Vue.js include](https://vuejs.org).
+
+At UI, I almost use [Vuetify.js](https://vuetifyjs.com/) now, but I've use [Semantic-UI](https://semantic-ui.com/) and [Bootstrap](https://getbootstrap.com/) before.
+
+### Back end
+
+Also, I am learning [NextJS](https://nestjs.com/) by use it as my back end server in [some projects](https://github.com/moontai0724?tab=repositories&q=nestjs), and also designed [at least 3 RESTful API](https://app.swaggerhub.com/search?type=API&owner=moontai0724) in [OpenAPI](https://swagger.io/specification/) spec for some project.
+
+When goes to database, I use [MySQL](https://www.mysql.com/) at most, but sometimes uses [SQLite](https://www.sqlite.org/). I always do a design by draw a ERD graphic before start a project.
+
+Sometimes, I use [Google Apps Script](https://www.google.com/script) with [Google Sheets](https://www.google.com/sheets) to [save and collect some data](https://github.com/moontai0724?tab=repositories&q=google-apps-script), it's really nice.
+
+And I also developed many small tools to help me achieve something, like [some downloader](https://github.com/moontai0724?tab=repositories&q=crowler).
+
+Besides JavaScript, I have been using PHP before. Built [at least 10 projects](https://github.com/moontai0724?tab=repositories&q=codeignite) in [CodeIgniter 3](https://codeigniter.com/) (not accessable in GitHub) and at least 2 in [Laravel](https://laravel.com/) (same, not accessable).
+
+## Server Hosting and Management
+
+Server hosting and management is not my main domain, but I also work a lot on this.
+
+I've used lots of platforms to host my server, such like [Heroku](https://www.heroku.com), [Linode](https://www.linode.com/), [GCP](https://console.cloud.google.com/), [AWS](https://aws.amazon.com/), [OVH](https://www.ovhcloud.com/) and own PC.
+
+I'm using [Proxmox](https://www.proxmox.com/) as my virtual environment management platform, and I use [Ubuntu](https://ubuntu.com/) and [Docker](https://www.docker.com/) to serve my servers.
+
+I've host reverse proxies to [proxy Minecraft traffics](https://github.com/moontai0724/haproxy-setup-shell-scripts) using [HAProxy](http://www.haproxy.org/), also simple web proxy using [Nginx](https://www.nginx.com/).
+
+Besides, I have host [Bind (DNS Server)](https://www.isc.org/bind/) before, and applies SSL with [Let's Encrypt](https://letsencrypt.org/), but now I uses [Cloudflare](https://www.cloudflare.com/) instead.
 
 ## Application Develpoment
-- <img height="20px" alt="Electron.js Icon" src="https://simpleicons.org/icons/electron.svg"> Electron.js, develop cross-platform desktop application with JavaScript.
-- <img height="20px" alt="Swift Icon" src="https://simpleicons.org/icons/swift.svg"> Swift, develop iOS with <img height="20px" alt="XCode Icon" src="https://simpleicons.org/icons/xcode.svg"> XCode in MacOS at VMWare on Windows.
-- <img height="20px" alt="Unity Icon" src="https://simpleicons.org/icons/unity.svg"> Unity, life is difficult.
+
+Without web, I'm also worked in many types of programming.
+
+I've developed [Android using both Java and Kotlin](https://github.com/moontai0724?tab=repositories&q=android), and also developed [iOS in Swift](https://github.com/moontai0724?tab=repositories&q=ios), it's a great experience. I mainly do this to know more about mobile develoeprs, this helps me to design API specs or manage projects more well.
+
+Also, I've made a application by using [Electron.js](https://www.electronjs.org/), I think I will do more with it (or just make PWA websites instead).
+
+I also develop games using [Unity](https://github.com/moontai0724?tab=repositories&q=unity), but after that, I think I'm not good at game develop.
+
 ## Other Skills
-- <img height="20px" alt="Git Icon" src="https://simpleicons.org/icons/git.svg"> Git, for sure.
-- <img height="20px" alt="Adobe XD Icon" src="https://simpleicons.org/icons/adobexd.svg"> Adobe XD, used for design web and application views.
-- <img height="20px" alt="Adobe Lightroom Classic Icon" src="https://simpleicons.org/icons/adobelightroomclassic.svg"> Adobe Lightroom Classic, volunteering on some technology conferences.
-- <img height="20px" alt="Adobe Photoshop Icon" src="https://simpleicons.org/icons/adobephotoshop.svg"> Adobe Photoshop, a little bit.
-- <img height="20px" alt="Microsoft Powerpoint Icon" src="https://simpleicons.org/icons/microsoftpowerpoint.svg"> Microsoft Powerpoint, well... if this is a skill, maybe a little bit.
-- <img height="20px" alt="Microsoft Word Icon" src="https://simpleicons.org/icons/microsoftword.svg"> Microsoft Word, well... if this is a skill, maybe a little bit.
-- <img height="20px" alt="Microsoft Access Icon" src="https://simpleicons.org/icons/microsoftaccess.svg"> Microsoft Access, not good as I wish to, nevermind.
+
+Without programming, I love photographing. I've participating many technical conferances by become a photography team volunteer, like [SITCON](https://sitcon.org/), [COSCUP](https://coscup.org/), [HITCON](https://hitcon.org/), [JCConf](https://jcconf.tw/), [g0v hackathon](https://jothon.g0v.tw/), etc..., so I also uses [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html), and I have learned [Photoshop](https://www.adobe.com/products/photoshop.html), [Illustrator](https://www.adobe.com/products/illustrator.html) in school.
+
+Besides these, I'm also do some films or videos before, now I use [Premiere Pro](https://www.adobe.com/products/premiere.html), but I use [Vegas](https://www.vegascreativesoftware.com/us/vegas-pro/) before.
 
 # Links
+
 <p align="center">
   <a href="https://t.me/moontai0724" target="blank"><img title="Telegram" alt="Telegram Icon" src="https://simpleicons.org/icons/telegram.svg" height="30px"></a>
   <a href="https://www.youtube.com/channel/UCAcU-20nEXHOEc2wJZzk4zA" target="blank"><img title="Youtube" alt="Youtube Icon" src="https://simpleicons.org/icons/youtube.svg" height="30px"></a>
