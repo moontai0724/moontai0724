@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm 月太 げつたい MoonTai
 
-A passionate full-end developer from Taiwan.
+A coder who is committed to improving and simplifying life.
 
 Currently working hard on learning web technologies!
 
