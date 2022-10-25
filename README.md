@@ -20,7 +20,7 @@ At UI, I almost use [Vuetify.js](https://vuetifyjs.com/) now, but I've use [Sema
 
 ### Back end
 
-Also, I am learning [NextJS](https://nestjs.com/) by use it as my back end server in [some projects](https://github.com/moontai0724?tab=repositories&q=nestjs), and also designed [at least 3 RESTful API](https://app.swaggerhub.com/search?type=API&owner=moontai0724) in [OpenAPI](https://swagger.io/specification/) spec for some project.
+Also, I am learning [NestJS](https://nestjs.com/) by use it as my back end server in [some projects](https://github.com/moontai0724?tab=repositories&q=nestjs), and also designed [at least 3 RESTful API](https://app.swaggerhub.com/search?type=API&owner=moontai0724) in [OpenAPI](https://swagger.io/specification/) spec for some project.
 
 When goes to database, I use [MySQL](https://www.mysql.com/) at most, but sometimes uses [SQLite](https://www.sqlite.org/). I always do a design by draw a ERD graphic before start a project.
 
