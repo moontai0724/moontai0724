@@ -19,7 +19,7 @@ Currently working hard on learning web technologies!
 
 I'm a JavaScript lover, so I mostly use JavaScript as my project language.
 
-[<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moontai0724&langs_count=10&layout=compact&exclude_repo=security-challange-php-codeigniter&theme=transparent">](https://github.com/anuraghazra/github-readme-stats)
+[<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moontai0724&langs_count=10&layout=compact&exclude_repo=security-challange-php-codeigniter&theme=transparent">](https://github.com/anuraghazra/github-readme-stats)
 
 ## Frontend
 
