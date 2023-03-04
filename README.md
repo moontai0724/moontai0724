@@ -1,70 +1,84 @@
 # 👋 Hi there, I'm 月太 げつたい MoonTai
 
-A coder who is committed to improving and simplifying life.
+[<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api?username=moontai0724&show_icons=true&theme=transparent">](https://github.com/anuraghazra/github-readme-stats)
+
+A coder who is committed to improve and simplify life, and also a passionate project maker.
 
 Currently working hard on learning web technologies!
 
-# Learning Skills
+日本語も勉強しています！よろしくね！
 
-## Web technologies
+今は [Vtuべｒ](https://twitter.com/momosuzunene/status/1291251723495813121) の深淵に落ちた。
 
-I start develop web from [developing user-scripts](https://github.com/moontai0724?tab=repositories&q=user-script), then goes to both front and back end.
+推しは [<img height="16" alt="Hololive LOGO" src="https://user-images.githubusercontent.com/25532663/219111940-87d0f493-4547-4f38-aaaa-52b321386cd0.png"> ホロライブ](https://www.hololive.tv/) の皆さんです。
 
-JavaScript is my first place, I almost and I will still choose JavaScript as my program language when possible, I LOVE JavaScript.
 
-### Front end
+# Skill trees
 
-I use [jQuery](https://jquery.com/) before, but now, I have built [more than 6 projects](https://github.com/moontai0724?tab=repositories&q=vuejs) using [Vue.js](https://vuejs.org/), includes [Nuxt.js](https://nuxtjs.org/), [Vue CLI and direct Vue.js include](https://vuejs.org).
+[<img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=moontai0724&layout=compact&theme=transparent">](https://wakatime.com/@moontai0724)
 
-At UI, I almost use [Vuetify.js](https://vuetifyjs.com/) now, but I've use [Semantic-UI](https://semantic-ui.com/) and [Bootstrap](https://getbootstrap.com/) before.
+I'm a JavaScript lover, so I mostly use JavaScript as my project language.
 
-### Back end
+[<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moontai0724&langs_count=10&layout=compact&exclude_repo=security-challange-php-codeigniter&theme=transparent">](https://github.com/anuraghazra/github-readme-stats)
 
-Also, I am learning [NestJS](https://nestjs.com/) by use it as my back end server in [some projects](https://github.com/moontai0724?tab=repositories&q=nestjs), and also designed [at least 3 RESTful API](https://app.swaggerhub.com/search?type=API&owner=moontai0724) in [OpenAPI](https://swagger.io/specification/) spec for some project.
+## Frontend
 
-When goes to database, I use [MySQL](https://www.mysql.com/) at most, but sometimes uses [SQLite](https://www.sqlite.org/). I always do a design by draw a ERD graphic before start a project.
+- Frameworks: Vue.js, Nuxt.js, Angular
 
-Sometimes, I use [Google Apps Script](https://www.google.com/script) with [Google Sheets](https://www.google.com/sheets) to [save and collect some data](https://github.com/moontai0724?tab=repositories&q=google-apps-script), it's really nice.
+## Backend
 
-And I also developed many small tools to help me achieve something, like [some downloader](https://github.com/moontai0724?tab=repositories&q=crowler).
+- Frameworks: NestJS, Laravel, CodeIgniter
+- Databases: MySQL, SQLite
 
-Besides JavaScript, I have been using PHP before. Built [at least 10 projects](https://github.com/moontai0724?tab=repositories&q=codeignite) in [CodeIgniter 3](https://codeigniter.com/) (not accessable in GitHub) and at least 2 in [Laravel](https://laravel.com/) (same, not accessable).
+## General Web Skills
 
-## Server Hosting and Management
+- CI related: Commitlint, ESLint, Prettier
 
-Server hosting and management is not my main domain, but I also work a lot on this.
+# Community Participation
 
-I've used lots of platforms to host my server, such like [Heroku](https://www.heroku.com), [Linode](https://www.linode.com/), [GCP](https://console.cloud.google.com/), [AWS](https://aws.amazon.com/), [OVH](https://www.ovhcloud.com/) and own PC.
+I also activly participated in communities as a photographer until now.
 
-I'm using [Proxmox](https://www.proxmox.com/) as my virtual environment management platform, and I use [Ubuntu](https://ubuntu.com/) and [Docker](https://www.docker.com/) to serve my servers.
+## [SITCON](https://sitcon.org/), Students’ Information Technology Conference
 
-I've host reverse proxies to [proxy Minecraft traffics](https://github.com/moontai0724/haproxy-setup-shell-scripts) using [HAProxy](http://www.haproxy.org/), also simple web proxy using [Nginx](https://www.nginx.com/).
+### Conference: 
 
-Besides, I have host [Bind (DNS Server)](https://www.isc.org/bind/) before, and applies SSL with [Let's Encrypt](https://letsencrypt.org/), but now I uses [Cloudflare](https://www.cloudflare.com/) instead.
+- [2022 "CAT IN A MAZZ", Documentary Team, Co-Chief](https://www.flickr.com/photos/moontai0724/galleries/72157721196962002/)
+- 2021 "Descendants of the abacus", Documentary Team, Chief
+- [2020 "#define", Photography Team, Member](https://www.flickr.com/photos/moontai0724/galleries/72157720408380329/)
+- 2019 "Algorithm in a Box", Field Team, Check-in, Member
 
-## Application Develpoment
+### Summer Camp:
 
-Without web, I'm also worked in many types of programming.
+- 2021 "源力崛起 Rise of the Power of Open Source" Documentary Team, Chief
+- [2019 "開源宇宙 OPEN SOURCE UNIVERSE", Photography Team, Member](https://www.flickr.com/photos/moontai0724/galleries/72157720408371769/)
 
-I've developed [Android using both Java and Kotlin](https://github.com/moontai0724?tab=repositories&q=android), and also developed [iOS in Swift](https://github.com/moontai0724?tab=repositories&q=ios), it's a great experience. I mainly do this to know more about mobile develoeprs, this helps me to design API specs or manage projects more well.
+### Hour of Code
 
-Also, I've made a application by using [Electron.js](https://www.electronjs.org/), I think I will do more with it (or just make PWA websites instead).
+- [2020/12/20 @ Tainan](https://www.flickr.com/photos/moontai0724/galleries/72157720412268596/)
+- [2020/12/19 @ Taichung](https://www.flickr.com/photos/moontai0724/galleries/72157720412268091/)
+- [2020/12/13 @ Yilan](https://www.flickr.com/photos/moontai0724/galleries/72157720406127833/)
+- [2020/12/05 @ Hsinchu](https://www.flickr.com/photos/moontai0724/galleries/72157720412266821/)
+- [2020/11/29 @ Hualien](https://www.flickr.com/photos/moontai0724/galleries/72157720412266191/)
+- [2019/12/21 @ New Taipei](https://www.flickr.com/photos/moontai0724/galleries/72157720408379329/)
+- [2019/12/07 @ Taichung](https://www.flickr.com/photos/moontai0724/galleries/72157720408379034/)
 
-I also develop games using [Unity](https://github.com/moontai0724?tab=repositories&q=unity), but after that, I think I'm not good at game develop.
+## [COSCUP](https://coscup.org/), Conference for Open Source Coders, Users and Promoters
 
-## Other Skills
+- [2022 Documentary Team, Chief](https://www.flickr.com/photos/moontai0724/galleries/72157721189799111/)
+- 2021 Documentary Team, Co-Chief
+- [2020 Photography Team, Member](https://www.flickr.com/photos/moontai0724/galleries/72157720418812527/)
 
-Without programming, I love photographing. I've participating many technical conferances by become a photography team volunteer, like [SITCON](https://sitcon.org/), [COSCUP](https://coscup.org/), [HITCON](https://hitcon.org/), [JCConf](https://jcconf.tw/), [g0v hackathon](https://jothon.g0v.tw/), etc..., so I also uses [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html), and I have learned [Photoshop](https://www.adobe.com/products/photoshop.html), [Illustrator](https://www.adobe.com/products/illustrator.html) in school.
+## [HITCON](https://hitcon.org/), Hacks in Taiwan Conference
 
-Besides these, I'm also do some films or videos before, now I use [Premiere Pro](https://www.adobe.com/products/premiere.html), but I use [Vegas](https://www.vegascreativesoftware.com/us/vegas-pro/) before.
+- [2022 "HITCON PEACE 2022", Photography Team, Member](https://www.flickr.com/photos/moontai0724/galleries/72157721238242595/)
+- [2021 "WORK FROM HOME, HACK INTO HOME", Photography Team, Member](https://www.flickr.com/photos/moontai0724/galleries/72157720406129553/)
 
-# Links
+## [g0v Hackathon](https://jothon.g0v.tw)
 
-<p align="center">
-  <a href="https://t.me/moontai0724" target="blank"><img title="Telegram" alt="Telegram Icon" src="https://simpleicons.org/icons/telegram.svg" height="30px"></a>
-  <a href="https://www.youtube.com/channel/UCAcU-20nEXHOEc2wJZzk4zA" target="blank"><img title="Youtube" alt="Youtube Icon" src="https://simpleicons.org/icons/youtube.svg" height="30px"></a>
-  <a href="https://fb.me/moontai0724" target="blank"><img title="Facebook" alt="Facebook Icon" src="https://simpleicons.org/icons/facebook.svg" height="30px"></a>
-  <a href="https://instagram.com/moontai0724" target="blank"><img title="Instagram" alt="Instagram Icon" src="https://simpleicons.org/icons/instagram.svg" height="30px"></a>
-  <a href="https://steamcommunity.com/id/moontai0724" target="blank"><img title="Steam" alt="Steam Icon" src="https://simpleicons.org/icons/steam.svg" height="30px"></a>
-  <a href="https://www.flickr.com/photos/moontai0724/galleries" target="blank"><img title="Flickr" alt="Flickr Icon" src="https://simpleicons.org/icons/flickr.svg" height="30px"></a>
-</p>
+- [2022/06/18 (50th) 第伍拾次來電五十黑客松 x COSCUP Open Source Contributor Workshop](https://www.flickr.com/photos/moontai0724/galleries/72157721238241485/)
+- [2021/01/23 (42th) 第肆拾貳次生命、宇宙及萬事萬物的終極答案黑客松](https://www.flickr.com/photos/moontai0724/galleries/72157720408385464/)
+- [2020/10/24 (41th) 第肆拾壹次八週年黑客松](https://www.flickr.com/photos/moontai0724/galleries/72157720408381334/)
+- [2019/09/07 (36th) 第参拾陸次開放台北市議會黑客松](https://www.flickr.com/photos/moontai0724/galleries/72157720408372019/)
+- [2019/05/25 (34th) 第参拾肆次再開放空總黑客松](https://www.flickr.com/photos/moontai0724/galleries/72157720412255116/)
+- [2019/03/09 (33th) 第参拾參次不顧北京反對———黑客松](https://www.flickr.com/photos/moontai0724/galleries/72157720412254721/)
+
