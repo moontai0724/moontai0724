@@ -23,16 +23,31 @@ I'm a JavaScript lover, so I mostly use JavaScript as my project language.
 
 ## Frontend
 
-- Frameworks: Vue.js, Nuxt.js, Angular
+- Framework: Vue.js, Nuxt.js, Angular
+- UI Framework: Tailwind CSS, Bootstrap, Vuetify, Angular Material, Semantic UI
 
 ## Backend
 
-- Frameworks: NestJS, Laravel, CodeIgniter
-- Databases: MySQL, SQLite
+- Framework: NestJS, Laravel, CodeIgniter, ASP.NET MVC, Apps Script
+- Database: MySQL, SQLite
 
 ## General Web Skills
 
 - CI related: Commitlint, ESLint, Prettier
+- Tools: Webpack
+
+## Server Management
+
+- System: Ubuntu, Proxmox
+- Cloud Platform: Vultr, Linode, OVH, GCP
+- Service and Tool: Cloudflare (DNS + Worker), Docker, Docker Compose, Nginx (Web Host + Reverse Proxy), pfSense (Firewall + OpenVPN)
+
+## Other
+
+- Android: Java, Kotlin
+- iOS: Swift
+- Desktop: PWA, Electron
+- Game: Unity
 
 # Community Participation
 
