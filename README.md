@@ -59,6 +59,6 @@ In addition to JavaScript, I've explored a variety of other technologies and too
 
 # Community Participation
 
-I also activly participated in communities as a photographer until now.
+Also, I'm still activly participated in communities as a photographer.
 
-For Detail, See: [<img src="https://i.imgur.com/aQ6irfc.png" height="48" style="margin: 0 auto;">](https://www.flickr.com/photos/moontai0724/galleries)
+For Detail, See: [<img src="https://i.imgur.com/aQ6irfc.png" height="36" style="margin: 0 auto;">](https://www.flickr.com/photos/moontai0724/galleries)
